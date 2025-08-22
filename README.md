@@ -1,0 +1,2 @@
+# azure-com-apimanagement-apimidentityprovider-2019-01-01-swagger
+OpenAPI specification for azure.com API vapimanagement-apimidentityprovider
